@@ -5,13 +5,13 @@ import { faJs, faReact, faVuejs, faPython, faHtml5, faCss3, faBootstrap } from "
 
 function Tech({ theme }) {
     const iconStyle = {
-        margin: '50px',
+        margin: '40px',
         transition: 'all 0.3s ease',
     };
 
     const iconHover = {
         transform: 'scale(1.1)',
-        boxShadow: theme === 'light' ? '0 0 10px rgba(255, 255, 255, 0.6)' : '0 0 10px rgba(0, 0, 0, 0.6)',
+        boxShadow: theme === 'light' ? '0 0 10px rgba(250, 250, 250, 0.6)' : '0 0 10px rgba(0, 0, 0, 0.6)',
     };
 
     return (
