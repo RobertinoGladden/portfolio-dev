@@ -5,7 +5,7 @@ import { faJs, faReact, faVuejs, faPython, faHtml5, faCss3, faBootstrap } from "
 
 function Tech({ theme }) {
     const iconStyle = {
-        margin: '40px',
+        margin: '45px',
         transition: 'all 0.3s ease',
     };
 
