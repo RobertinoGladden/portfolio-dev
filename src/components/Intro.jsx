@@ -9,7 +9,7 @@ function Intro() {
             I was a college student relaxing while crafting a program to solve real-life problems in an easy way.
             All the way down if you are curious about me you can come to my{' '}
             <a
-               href="www.linkedin.com/in/robertinogladdennarendra"
+               href="https://www.linkedin.com/in/robertinogladdennarendra/"
                target="_blank"
                className="text-red-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
                rel="noreferrer noopener"
