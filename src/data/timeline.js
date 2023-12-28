@@ -1,12 +1,5 @@
 export default [
 	
-   {
-		year: 'Today',
-		title: 'Bachelor`s Degree Telecommunication Engineering ',
-		duration: 'Undergraduate Student',
-		details:
-			"I am a hardworking and enthusiastic student majoring in Telecommunication Engineering who has an interest in programming, Internet of Things, and developing knowledge in the field of website development",
-	},
 	{
 		year: 'Oct 2023 - Present',
 		title: "Metalabs Associate 2023",
